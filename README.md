@@ -11,5 +11,5 @@ while(n>0):
 if(n==temp):
   print("it is armstrong")
 else:
-  
+  print("it is not armstrong")
   
