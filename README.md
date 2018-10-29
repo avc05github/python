@@ -12,3 +12,4 @@ if(n==temp):
   print("it is armstrong")
 else:
   
+  
